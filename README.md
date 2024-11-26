@@ -1,2 +1,3 @@
-# fca2024_lab7
-C language lab
+# Lab 7 - FCA 2024
+
+
