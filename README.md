@@ -1,5 +1,9 @@
 # Lab 7 - FCA 2024
 
+* Write your program in a seperate folder:  `ex1`, `ex2`, `ex3`
+* Inside each folder, your code should have a file named `main.c`
+* And inside each folder, you have to copy the file `Makefile`
+
 --------------------------------------------
 ## Exercise 1: Recursive Factorial Function
 
